@@ -1,15 +1,22 @@
-.first-main h2 {
+main h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+  font-size: 50px;
+}
+main h2 {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 700;
+}
+main h3 {
   font-family: "Josefin Sans", sans-serif;
 }
-.first-main h3 {
+main p {
   font-family: "Josefin Sans", sans-serif;
 }
-.first-main p {
+main li {
   font-family: "Josefin Sans", sans-serif;
 }
-.first-main li {
-  font-family: "Josefin Sans", sans-serif;
-}
-.first-main button {
+main button {
   font-family: "Josefin Sans", sans-serif;
 }/*# sourceMappingURL=styling.css.map */
