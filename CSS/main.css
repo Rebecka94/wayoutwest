@@ -133,7 +133,7 @@ body {
     height: 315px;
 }
 
-#age-id {
+.age-id {
     color: #ed4a80;
     font-weight: 600;
 }
