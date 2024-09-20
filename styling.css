@@ -20,4 +20,14 @@ main li {
 }
 main button {
   font-family: "Josefin Sans", sans-serif;
+}
+
+.second-main a {
+  text-decoration: none;
+  color: black;
+}
+.second-main h2:hover {
+  color: #ccffba;
+  transition: all 0.4s ease;
+  transform: scale(0.95);
 }/*# sourceMappingURL=styling.css.map */

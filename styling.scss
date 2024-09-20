@@ -4,6 +4,11 @@ $font-size-h2: 30px;
 $font-style: italic;
 $font-weight-h1: 800;
 $font-weight-h2: 700;
+$text-decoration: none;
+$color-link: black;
+$hover: #ccffba;
+$transition: all 0.4s ease;
+$transform: scale(0.95);
 
 main {
     h1 {
@@ -33,5 +38,18 @@ main {
 
     button {
         font-family: $font-stack;
+    }
+}
+
+.second-main {
+    a {
+        text-decoration: $text-decoration;
+        color: $color-link;
+    }
+
+    h2:hover {
+        color: $hover
+        transition: $transition;
+        transform: $transform;
     }
 }
