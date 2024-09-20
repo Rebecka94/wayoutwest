@@ -1,5 +1,6 @@
 $font-stack: "Josefin Sans", sans-serif;
-$font-size: 50px;
+$font-size-h1: 50px;
+$font-size-h2: 30px;
 $font-style: italic;
 $font-weight-h1: 800;
 $font-weight-h2: 700;
@@ -9,12 +10,13 @@ main {
         font-family: $font-stack;
         font-weight: $font-weight-h1;
         font-style: $font-style;
-        font-size: $font-size;
+        font-size: $font-size-h1;
     }
 
     h2 {
         font-family: $font-stack;
         font-weight: $font-weight-h2;
+        font-size: $font-size-h2;
     }
 
     h3 {
