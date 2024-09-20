@@ -181,6 +181,11 @@ body {
     margin-top: 15px;
 }
 
+.text-container h2:hover {
+    transition: all 0.2s ease-in;
+    transform: scale(0.95);
+}
+
 /*footer styling start*/
 
 /*
