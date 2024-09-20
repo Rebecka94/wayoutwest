@@ -21,9 +21,6 @@ main li {
 main button {
   font-family: "Josefin Sans", sans-serif;
 }
-main .img-container img {
-  box-shadow: 5px 10px 8px #888888;
-}
 main .header-main {
   box-shadow: 5px 10px 8px #888888;
 }

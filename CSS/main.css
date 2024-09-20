@@ -162,18 +162,39 @@ body {
     justify-content: center;
 }
 
+.new-to-wow-container {
+    background-color: white;
+    border: 1px solid white;
+    padding: 20px 20px 30px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.stay-out-west-container {
+    background-color: white;
+    border: 1px solid white;
+    padding: 20px 20px 30px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.dungen-container {
+    background-color: white;
+    border: 1px solid white;
+    padding: 20px 20px 30px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
 .img-container {
     width: fit-content;
     height: auto;
 }
 
-.img-container img {
-    width: 100%;
-}
-
 .img-container img:hover {
     transition: all 0.4s ease;
     transform: scale(0.95);
+}
+
+.img-container img {
+    width: 100%;
 }
 
 .text-container {
